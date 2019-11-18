@@ -36,3 +36,18 @@ Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency
 Xingyi Zhou, Arjun Karpur, Chuang Gan, Linjie Luo, Qixing Huang
 European Conference on Computer Vision (ECCV), 2018
 
+# Yihui He
+
+http://yihui-he.github.io/
+
+Bounding Box Regression with Uncertainty for Accurate Object Detection
+Yihui He, Chenchen Zhu, Jianren Wang, Marios Savvides, Xiangyu Zhang, CVPR 2019
+
+# Chenchen Zhu
+
+https://sites.google.com/andrew.cmu.edu/zcckernel/publications?authuser=0
+
+Chenchen Zhu, Yihui He, Marios Savvides, "Feature Selective Anchor-Free Module for Single-Shot Object Detection", In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+
+
+
