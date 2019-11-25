@@ -50,4 +50,35 @@ https://sites.google.com/andrew.cmu.edu/zcckernel/publications?authuser=0
 Chenchen Zhu, Yihui He, Marios Savvides, "Feature Selective Anchor-Free Module for Single-Shot Object Detection", In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 
 
+# Zhuang Liu
+https://liuzhuang13.github.io/
+
+Rethinking the Value of Network Pruning
+Zhuang Liu*, Mingjie Sun*, Tinghui Zhou, Gao Huang, Trevor Darrell
+ICLR 2019, and NeurIPS 2018 Workshop on Compact Deep Neural Networks (Best Paper Award)
+
+	
+Densely Connected Convolutional Networks
+Gao Huang*, Zhuang Liu*, Laurens van der Maaten, Kilian Q. Weinberger
+CVPR 2017 (Best Paper Award)
+
+# Kai Chen
+https://github.com/hellock?tab=overview&from=2019-11-01&to=2019-11-18
+
+# Ze Yang
+
+https://yangze.tech/publications/
+
+RepPoints: Point Set Representation for Object Detection
+Ze Yang*, Shaohui Liu*, Han Hu, Liwei Wang, Steve Lin
+International Conference on Computer Vision (ICCV), 2019
+
+Learning Relationships for Multi-view 3D Object Recognition
+Ze Yang, Liwei Wang
+International Conference on Computer Vision (ICCV), 2019
+
+Learning to Navigate for Fine-grained Classification
+Ze Yang, Tiange Luo, Dong Wang, Zhiqiang Hu, Jun Gao, Liwei Wang
+European Conference on Computer Vision (ECCV), 2018
+
 
