@@ -82,3 +82,29 @@ Ze Yang, Tiange Luo, Dong Wang, Zhiqiang Hu, Jun Gao, Liwei Wang
 European Conference on Computer Vision (ECCV), 2018
 
 
+# Shifeng Zhang
+
+http://www.cbsr.ia.ac.cn/users/sfzhang/
+
+PedHunter: Occlusion Robust Pedestrian Detector in Crowded Scenes
+Cheng Chi*, Shifeng Zhang*†, Junliang Xing, Zhen Lei, Stan Z. Li, Xudong Zou
+Association for the Advancement of Artificial Intelligence (AAAI), 2020
+*equal contribution, †corresponding author
+
+Mis-classified Vector Guided Softmax Loss for Face Recognition
+Xiaobo Wang*, Shifeng Zhang*, Shuo Wang, Tianyu Fu, Hailin Shi, Tao Mei
+Association for the Advancement of Artificial Intelligence (AAAI), Oral, 2020
+*equal contribution
+
+
+A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing
+Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+
+ScratchDet: Training Single-Shot Object Detectors from Scratch
+Rui Zhu*, Shifeng Zhang*, Xiaobo Wang, Longyin Wen, Hailin Shi, Liefeng Bo, Tao Mei
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Oral, 2019
+*equal contribution
+
+
+
