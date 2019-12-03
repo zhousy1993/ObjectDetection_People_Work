@@ -106,5 +106,13 @@ Rui Zhu*, Shifeng Zhang*, Xiaobo Wang, Longyin Wen, Hailin Shi, Liefeng Bo, Tao 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Oral, 2019
 *equal contribution
 
+# Zhaowei Cai
 
+https://sites.google.com/site/zhaoweicai1989/
+
+Zhaowei Cai, Mohammad Saberian, and Nuno Vasconcelos, "Learning Complexity-Aware Cascades for Pedestrian Detection", accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019.
+
+Xudong Wang, Zhaowei Cai, Dashan Gao, and Nuno Vasconcelos, "Towards Universal Object Detection by Domain Attention", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, California, United States, 2019. [arXiv][project page]
+
+Zhaowei Cai, and Nuno Vasconcelos, "Cascade R-CNN: Delving into High Quality Object Detection", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, Utah, United States, 2018 (Spotlight). [PDF][arXiv][Code][Code-Detectron][BibTex]
 
