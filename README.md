@@ -116,3 +116,19 @@ Xudong Wang, Zhaowei Cai, Dashan Gao, and Nuno Vasconcelos, "Towards Universal O
 
 Zhaowei Cai, and Nuno Vasconcelos, "Cascade R-CNN: Delving into High Quality Object Detection", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, Utah, United States, 2018 (Spotlight). [PDF][arXiv][Code][Code-Detectron][BibTex]
 
+# Yichao Zhou
+
+https://yichaozhou.com/
+
+ Yichao Zhou, Haozhi Qi, Jingwei Huang, Yi Ma (2019). NeurVPS: Neural Vanishing Point Scanning via Conic Convolution. NeurIPS 2019.
+
+ Yichao Zhou, Haozhi Qi, Yi Ma (2019). End-to-End Wireframe Parsing. ICCV 2019.
+ 
+ Jingwei Huang, Yichao Zhou, Thomas Funkhouser, Leonidas Guibas (2019). FrameNet: Learning Local Canonical Frames of 3D Surfaces from a Single RGB Image. ICCV 2019.
+
+ Yichao Zhou, Haozhi Qi, Simon Zhai, Qi Sun, Zhili Chen, Li-Yi Wei, Yi Ma (2018). Learning to Reconstruct 3D Manhattan Wireframes from a Single Image. ICCV 2019 (Oral Presentation).
+   
+ Jingwei Huang*, Yichao Zhou*, Matthias Nießner, Jonathan Shewchuk, Leonidas Guibas (2018). QuadriFlow: A Scalable and Robust Method for Quadrangulation. SGP 2018 (Best Paper), Computer Graphics Forum.
+    
+
+
