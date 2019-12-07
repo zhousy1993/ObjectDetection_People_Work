@@ -129,6 +129,52 @@ https://yichaozhou.com/
  Yichao Zhou, Haozhi Qi, Simon Zhai, Qi Sun, Zhili Chen, Li-Yi Wei, Yi Ma (2018). Learning to Reconstruct 3D Manhattan Wireframes from a Single Image. ICCV 2019 (Oral Presentation).
    
  Jingwei Huang*, Yichao Zhou*, Matthias Nießner, Jonathan Shewchuk, Leonidas Guibas (2018). QuadriFlow: A Scalable and Robust Method for Quadrangulation. SGP 2018 (Best Paper), Computer Graphics Forum.
+ 
+ # Xiaolong Wang
+ 
+ https://xiaolonw.github.io/
+ 
+Xiaolong Wang* , Allan Jabri* and Alexei A. Efros
+Learning Correspondence from the Cycle-consistency of Time
+in Computer Vision and Pattern Recognition (CVPR), 2019.
+(Oral Presentation )
+1/4
+
+[2] Xueting Li, Sifei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, and Jan Kautz
+Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
+in Computer Vision and Pattern Recognition (CVPR), 2019.
+
+[3] Wei Yang, Xiaolong Wang, Ali Farhadi, Abhinav Gupta, and Roozbeh Mottaghi
+Visual Semantic Navigation using Scene Priors
+in International Conference on Learning Representations (ICLR), 2019.
+
+[4] Xiaolong Wang and Abhinav Gupta
+Videos as Space-Time Region Graphs
+in European Conference on Computer Vision (ECCV), 2018.
+
+[5] Tian Ye, Xiaolong Wang, James Davidson, and Abhinav Gupta
+Interpretable Intuitive Physics Model
+in European Conference on Computer Vision (ECCV), 2018.
+
+[6] Xiaolong Wang, Ross Girshick, Abhinav Gupta, and Kaiming He
+Non-local Neural Networks
+in Computer Vision and Pattern Recognition (CVPR), 2018.
+
+[7] Xiaolong Wang*, Yufei Ye*, and Abhinav Gupta
+Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs
+in Computer Vision and Pattern Recognition (CVPR), 2018.
+
+[8] Wei Yang , Wanli Ouyang, Xiaolong Wang, Jimmy Ren, Hongsheng Li, and Xiaogang Wang
+3D Human Pose Estimation in the Wild by Adversarial Learning
+in Computer Vision and Pattern Recognition (CVPR), 2018.
+
+[9] Xiaolong Wang, Kaiming He, and Abhinav Gupta
+Transitive Invariance for Self-supervised Visual Representation Learning
+in International Conference on Computer Vision (ICCV), 2017.
+
+[10] Yuan Yuan, Xiaodan Liang, Xiaolong Wang, Dit-Yan Yeung, and Abhinav Gupta
+Temporal Dynamic Graph LSTM for Action-driven Video Object Detection
+in International Conference on Computer Vision (ICCV), 2017.
     
 
 
