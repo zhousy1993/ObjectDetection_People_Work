@@ -190,4 +190,39 @@ https://libuyu.github.io/
  Buyu Li, Wanli Ouyang, Lu Sheng, Xingyu Zeng, Xiaogang Wang (2019). GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving. CVPR2019.
  
 
+# Chao Peng
+
+http://www.pengchao.org/
+
+Objects365: A Large-Scale, High-Quality Dataset for Object Detection
+Shao, Shuai and Li, Zeming and Zhang, Tianyuan and Peng, Chao and Yu, Gang and Zhang, Xiangyu and Li, Jing and Sun, Jian
+ICCV, 2019
+
+An End-to-End Network for Panoptic Segmentation
+Huanyu Liu, Chao Peng, Changqian Yu, Jingbo Wang, Xu Liu, Gang Yu, Wei Jiang
+CVPR, 2019
+
+BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+Changqian Yu, Jingbo Wang, Chao Peng, Changxin Gao, Gang Yu, Nong Sang
+ECCV, 2018
+
+ExFuse: Enhancing Feature Fusion for Semantic Segmentation
+Zhenli Zhang, Xiangyu Zhang, Chao Peng, Dazhi Cheng, Jian Sun
+ECCV, 2018
+
+DetNet: A Backbone network for Object Detection
+Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun
+ECCV, 2018
+
+MegDet: A Large Mini-Batch Object Detector
+Chao Peng, Tete Xiao, Zeming Li, Yuning Jiang, Xiangyu Zhang, Kai Jia, Gang Yu, Jian Sun
+CVPR spotlight, 2018
+
+Learning a Discriminative Feature Network for Semantic Segmentation
+Changqian Yu, Jingbo Wang, Chao Peng, Changxin Gao, Gang Yu, Nong Sang
+CVPR, 2018
+
+Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
+Chao Peng, Xiangyu Zhang, Gang Yu, Guiming Luo, Jian Sun
+CVPR, 2017
 
