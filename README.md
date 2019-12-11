@@ -176,5 +176,18 @@ in International Conference on Computer Vision (ICCV), 2017.
 Temporal Dynamic Graph LSTM for Action-driven Video Object Detection
 in International Conference on Computer Vision (ICCV), 2017.
     
+# Buyu Li
+
+https://libuyu.github.io/
+
+
+ Buyu Li, Yu Liu, Xiaogang Wang (2019). Gradient Harmonized Single-stage Detector. AAAI-19 (Oral).
+  
+
+ Xin Lu, Buyu Li, Yuxin Yue, Quanquan Li, Junjie Yan (2019). Grid R-CNN. CVPR2019.
+ 
+
+ Buyu Li, Wanli Ouyang, Lu Sheng, Xingyu Zeng, Xiaogang Wang (2019). GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving. CVPR2019.
+ 
 
 
