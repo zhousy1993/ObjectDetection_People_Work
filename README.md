@@ -226,3 +226,11 @@ Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Ne
 Chao Peng, Xiangyu Zhang, Gang Yu, Guiming Luo, Jian Sun
 CVPR, 2017
 
+
+# Qijie Zhao
+
+https://qijiezhao.github.io/
+
+Qijie Zhao, Yongtao Wang et. al. M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network. AAAI Conference on Artificial Intelligence (AAAI-19). Spotlight [pdf]
+
+Qijie Zhao, Feng Ni, et. al. CFENet: An Accurate and Efficient Single-Shot Object Detector for Autonomous Driving. Computer Vision and Pattern Recognition 2018, Workshop of Autonomous Driving technique report.
