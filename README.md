@@ -1,5 +1,31 @@
 # ObjectDetection_People_Work
 
+# Abhinav Shrivastava
+
+http://abhinavsh.info/
+
+Beyond Skip Connections: Top-Down Modulation for Object Detection
+Abhinav Shrivastava, Rahul Sukthankar, Jitendra Malik, Abhinav Gupta
+arXiv [cv.CV], 2016
+bibtex / pdf
+
+A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection
+Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
+bibtex / pdf / code
+
+Contextual Priming and Feedback for Faster R-CNN
+Abhinav Shrivastava, Abhinav Gupta
+European Conference on Computer Vision (ECCV), 2016
+bibtex / pdf / poster
+
+Training Region-based Object Detectors with Online Hard Example Mining
+Abhinav Shrivastava, Abhinav Gupta, Ross Girshick
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
+oral presentation
+bibtex / pdf / code / video / poster / slides (pptx)
+
+
 # Zeming Li
 
 http://www.zemingli.com/
