@@ -1,5 +1,9 @@
 # ObjectDetection_People_Work
 
+# Ting Chen
+
+http://web.cs.ucla.edu/~tingchen/
+
 # Abhinav Shrivastava
 
 http://abhinavsh.info/
