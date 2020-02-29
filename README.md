@@ -1,5 +1,9 @@
 # ObjectDetection_People_Work
 
+# Jianbo Shi Pennsylvania
+
+https://www.cis.upenn.edu/~jshi/
+
 # Ting Chen
 
 http://web.cs.ucla.edu/~tingchen/
